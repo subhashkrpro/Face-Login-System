@@ -27,22 +27,6 @@
 14. [Performance Notes](#14-performance-notes)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Quick Reference
 
 ```bash
